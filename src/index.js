@@ -1,6 +1,5 @@
+
 module.exports = function getZerosCount(number)
- {
-  module.exports = function getZerosCount(number)
  {
 	var n = 5;
 	var res = 0;
@@ -12,5 +11,4 @@ module.exports = function getZerosCount(number)
 
 	return res;
 	
-}
 }
